@@ -1,0 +1,2376 @@
+{
+  "data": [
+    {
+      "id": "100",
+      "slug": "/terror/2025-02-15/nova-serie-de-it-a-coisa",
+      "title": "Nova série de IT a coisa",
+      "type": "Artigo",
+      "subtitle": "Nova série inspirada na obra de stephen king revive a cidade mais assustadora da ficção.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/it-a-coisa-serie.jpg",
+          "alt_text": "Capa da série IT a Coisa",
+          "caption": "Imagem promocional da série IT a Coisa"
+        }
+      },
+      "author": {
+        "name": "Ana Silva",
+        "profile_url": "https://dramanews.com.br/autor/ana-silva",
+        "bio": "Crítica de séries há 10 anos."
+      },
+      "dates": {
+        "published_at": "2025-02-15T14:00:00Z",
+        "modified_at": "2025-02-15T16:30:00Z"
+      },
+      "seo": {
+        "title_tag": "Nova série inspirada na obra de stephen king | Drama News",
+        "meta_description": "Nova série inspirada na obra de stephen king",
+        "canonical_url": "https://dramanews.com.br/series/the-last-of-us/critica-episodio-3",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "artigo",
+          "review"
+        ]
+      },
+      "social_graph": {
+        "og_title": "Você chorou no ep 3 de The Last of Us? Leia nossa crítica",
+        "og_description": "O episódio mais polêmico e emocionante da temporada explicado.",
+        "og_image": "https://cdn.seusite.com.br/img/tlou-ep3-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "Article",
+        "item_reviewed": "It a coisa - season 1"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Para os fãs do universo criado por Stephen King, a espera está quase acabando. A nova série original da HBO, ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "It: Welcome to Derry",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ", promete mergulhar nas profundezas sombrias da cidade mais amaldiçoada da ficção.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Do que se trata a série?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Diferente dos filmes recentes que focaram no \"Clube dos Perdedores\", a série servirá como uma ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "prequel",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ". A trama se passará na década de 1960, explorando os eventos que antecederam o filme \"It: A Coisa\" (2017) e revelando a aterrorizante história de origem de Pennywise.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "O Retorno de Pennywise",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A grande notícia que abalou a internet foi a confirmação do elenco. ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Bill Skarsgård",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " retornará ao papel icônico do palhaço dançarino. Além de atuar, Skarsgård também atuará como produtor executivo da série, garantindo que a essência do personagem permaneça fiel às adaptações cinematográficas de sucesso.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Equipe Criativa",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Andy Muschietti (diretor dos filmes) e sua irmã, Barbara Muschietti, estão envolvidos no desenvolvimento da história, trazendo a mesma atmosfera visual e narrativa que conquistou o público nos cinemas. A série é uma produção da Max (antiga HBO Max) e tem previsão de estreia para 2025.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Prepare-se: todos vão flutuar novamente.",
+              "marks": [
+                {
+                  "type": "bold"
+                },
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "slug": "/drama/2025-12-20/the-last-of-us-temporada-2-confirmada",
+      "title": "The Last of Us: HBO confirma 2ª temporada",
+      "type": "Notícia",
+      "subtitle": "Após sucesso estrondoso, HBO anuncia continuação da adaptação do aclamado game com novidades no elenco.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/the-last-of-us-s2.jpg",
+          "alt_text": "The Last of Us Season 2",
+          "caption": "Segunda temporada de The Last of Us confirmada"
+        }
+      },
+      "author": {
+        "name": "Carlos Mendes",
+        "profile_url": "https://dramanews.com.br/autor/carlos-mendes",
+        "bio": "Jornalista especializado em adaptações de games."
+      },
+      "dates": {
+        "published_at": "2025-12-20T10:30:00Z",
+        "modified_at": "2025-12-20T11:00:00Z"
+      },
+      "seo": {
+        "title_tag": "The Last of Us ganha 2ª temporada na HBO | Drama News",
+        "meta_description": "HBO confirma segunda temporada de The Last of Us",
+        "canonical_url": "https://dramanews.com.br/noticias/the-last-of-us-temporada-2",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "notícia",
+          "the last of us",
+          "hbo"
+        ]
+      },
+      "social_graph": {
+        "og_title": "The Last of Us: HBO confirma 2ª temporada",
+        "og_description": "A série mais aclamada do ano volta com nova temporada.",
+        "og_image": "https://cdn.dramanews.com.br/img/tlou-s2-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "NewsArticle",
+        "item_reviewed": "The Last of Us - Season 2"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A HBO confirmou oficialmente a segunda temporada de ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "The Last of Us",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ", após o sucesso estrondoso da primeira temporada que quebrou recordes de audiência e conquistou crítica e público.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "O que esperar da segunda temporada?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A nova temporada adaptará os eventos do segundo jogo da franquia, ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "The Last of Us Part II",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ", prometendo uma narrativa ainda mais intensa e emocionalmente devastadora.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Novidades no elenco",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Pedro Pascal e Bella Ramsey retornam como Joel e Ellie, mas a grande novidade é a entrada de ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Kaitlyn Dever",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " como Abby, personagem central da nova temporada.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A previsão de estreia é para 2026.",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "slug": "/terror/2025-12-18/stranger-things-final-decepciona",
+      "title": "Stranger Things: o final que dividiu os fãs",
+      "type": "Opinião",
+      "subtitle": "A última temporada da série da Netflix trouxe respostas, mas deixou um gosto amargo em muitos espectadores.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/stranger-things-final.jpg",
+          "alt_text": "Stranger Things temporada final",
+          "caption": "O polêmico final de Stranger Things"
+        }
+      },
+      "author": {
+        "name": "Beatriz Costa",
+        "profile_url": "https://dramanews.com.br/autor/beatriz-costa",
+        "bio": "Crítica de cultura pop e entusiasta de séries sci-fi."
+      },
+      "dates": {
+        "published_at": "2025-12-18T16:45:00Z",
+        "modified_at": "2025-12-19T09:15:00Z"
+      },
+      "seo": {
+        "title_tag": "Stranger Things: análise crítica do final | Drama News",
+        "meta_description": "O que deu errado no final de Stranger Things?",
+        "canonical_url": "https://dramanews.com.br/opiniao/stranger-things-final",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "opinião",
+          "stranger things",
+          "netflix"
+        ]
+      },
+      "social_graph": {
+        "og_title": "Stranger Things: o final que dividiu os fãs",
+        "og_description": "Nossa visão sobre o controverso final da série.",
+        "og_image": "https://cdn.dramanews.com.br/img/st-final-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "OpinionArticle",
+        "item_reviewed": "Stranger Things - Final Season"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Após anos de expectativa, o final de ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Stranger Things",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " finalmente chegou, e a recepção foi... complicada. A série que nos presenteou com momentos memoráveis acabou deixando muitos fãs divididos.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "O que funcionou",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "As performances do elenco continuaram impecáveis, especialmente Millie Bobby Brown como Eleven. Os efeitos visuais alcançaram um novo patamar, e a batalha final contra Vecna foi visualmente impressionante.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Os problemas",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "O ritmo arrastado dos episódios e algumas subtramas desnecessárias comprometeram a temporada. Além disso, o desfecho de personagens queridos pareceu apressado e pouco satisfatório.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "No fim, Stranger Things nos deu uma despedida que, embora emotiva, deixou a sensação de que poderia ter sido muito melhor.",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "slug": "/drama/2025-12-15/succession-legado-series-drama",
+      "title": "Succession: como redefinir o drama na TV",
+      "type": "Artigo",
+      "subtitle": "A série da HBO encerrou sua jornada deixando um legado inesquecível para o gênero dramático na televisão.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/succession-legacy.jpg",
+          "alt_text": "Succession HBO",
+          "caption": "O impacto de Succession na TV moderna"
+        }
+      },
+      "author": {
+        "name": "Ricardo Alves",
+        "profile_url": "https://dramanews.com.br/autor/ricardo-alves",
+        "bio": "Analista de séries dramáticas e roteiro há 15 anos."
+      },
+      "dates": {
+        "published_at": "2025-12-15T13:20:00Z",
+        "modified_at": "2025-12-16T08:30:00Z"
+      },
+      "seo": {
+        "title_tag": "Succession e seu legado no drama televisivo | Drama News",
+        "meta_description": "Análise completa do impacto de Succession na TV",
+        "canonical_url": "https://dramanews.com.br/artigos/succession-legado",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "artigo",
+          "succession",
+          "drama",
+          "hbo"
+        ]
+      },
+      "social_graph": {
+        "og_title": "Succession: como redefinir o drama na TV",
+        "og_description": "O legado inesquecível de uma das melhores séries da década.",
+        "og_image": "https://cdn.dramanews.com.br/img/succession-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "Article",
+        "item_reviewed": "Succession"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Succession mudou as regras do jogo quando se trata de drama televisivo. A série criada por Jesse Armstrong não apenas contou a história de uma família disfuncional bilionária, mas redefiniu o que é possível fazer na TV.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Roteiro impecável",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Cada episódio funcionava como uma pequena obra-prima de diálogos afiados e desenvolvimento de personagens. A série conseguiu o raro feito de criar personagens ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "profundamente detestáveis e fascinantes",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " ao mesmo tempo.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Performances memoráveis",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Brian Cox, Jeremy Strong, Sarah Snook e Kieran Culkin entregaram atuações que serão estudadas por anos. O elenco transformou cada cena em um campo de batalha verbal repleto de tensão.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Succession provou que o público está pronto para narrativas complexas, moralmente ambíguas e brutalmente honestas sobre poder e família.",
+              "marks": [
+                {
+                  "type": "bold"
+                },
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "slug": "/acao/2025-12-22/fallout-amazon-surpreende",
+      "title": "Fallout: Amazon acerta em cheio na adaptação",
+      "type": "Notícia",
+      "subtitle": "A série baseada no game pós-apocalíptico da Bethesda surpreende crítica e público com qualidade cinematográfica.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/fallout-amazon.jpg",
+          "alt_text": "Fallout série Amazon",
+          "caption": "Fallout chega com tudo na Amazon Prime"
+        }
+      },
+      "author": {
+        "name": "Marina Santos",
+        "profile_url": "https://dramanews.com.br/autor/marina-santos",
+        "bio": "Especialista em adaptações de games para TV."
+      },
+      "dates": {
+        "published_at": "2025-12-22T11:00:00Z",
+        "modified_at": "2025-12-22T14:30:00Z"
+      },
+      "seo": {
+        "title_tag": "Fallout da Amazon surpreende com qualidade | Drama News",
+        "meta_description": "Série Fallout da Amazon impressiona fãs e críticos",
+        "canonical_url": "https://dramanews.com.br/noticias/fallout-amazon",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "notícia",
+          "fallout",
+          "amazon",
+          "adaptação"
+        ]
+      },
+      "social_graph": {
+        "og_title": "Fallout: Amazon acerta em cheio na adaptação",
+        "og_description": "A série que está conquistando fãs de games e não-gamers.",
+        "og_image": "https://cdn.dramanews.com.br/img/fallout-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "NewsArticle",
+        "item_reviewed": "Fallout - Amazon Series"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A Amazon Prime Video acertou a mão com a adaptação de ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Fallout",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ". A série conseguiu capturar a essência do universo pós-apocalíptico dos games, trazendo humor negro, ação frenética e uma narrativa envolvente.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Fidelidade ao game",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Os fãs da franquia reconhecerão imediatamente elementos icônicos: os Vaults, o Pip-Boy, as criaturas mutantes e, claro, a trilha sonora nostálgica dos anos 40 e 50 que contrasta perfeitamente com a devastação nuclear.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Elenco e produção",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Com Ella Purnell no papel principal e a direção de Jonathan Nolan, a série entrega uma produção de ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "padrão cinematográfico",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ". Cada episódio é uma mistura perfeita de ação, mistério e crítica social.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Fallout é prova de que adaptações de games podem, sim, funcionar quando feitas com respeito ao material original.",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "slug": "/comedia/2025-12-10/ted-lasso-vale-hype",
+      "title": "Ted Lasso realmente merece todo o hype?",
+      "type": "Opinião",
+      "subtitle": "A comédia da Apple TV+ conquistou o mundo, mas será que é tudo isso mesmo? Analisamos os prós e contras.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/ted-lasso-analysis.jpg",
+          "alt_text": "Ted Lasso Apple TV",
+          "caption": "Ted Lasso: hype justificado?"
+        }
+      },
+      "author": {
+        "name": "Paulo Ferreira",
+        "profile_url": "https://dramanews.com.br/autor/paulo-ferreira",
+        "bio": "Crítico de séries de comédia e drama leve."
+      },
+      "dates": {
+        "published_at": "2025-12-10T15:00:00Z",
+        "modified_at": "2025-12-11T10:20:00Z"
+      },
+      "seo": {
+        "title_tag": "Ted Lasso vale o hype? Nossa análise sincera | Drama News",
+        "meta_description": "Análise crítica de Ted Lasso da Apple TV+",
+        "canonical_url": "https://dramanews.com.br/opiniao/ted-lasso-hype",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "opinião",
+          "ted lasso",
+          "apple tv",
+          "comédia"
+        ]
+      },
+      "social_graph": {
+        "og_title": "Ted Lasso realmente merece todo o hype?",
+        "og_description": "Nossa visão honesta sobre o fenômeno da Apple TV+.",
+        "og_image": "https://cdn.dramanews.com.br/img/ted-lasso-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "OpinionArticle",
+        "item_reviewed": "Ted Lasso"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Ted Lasso se tornou um fenômeno cultural inesperado. A série sobre um treinador de futebol americano que vai treinar um time de futebol inglês conquistou prêmios, críticas positivas e uma legião de fãs. Mas será que merece ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "todo",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " esse hype?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "O lado positivo",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Jason Sudeikis entrega uma performance calorosa e carismática. A série é genuinamente ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "reconfortante",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " em tempos difíceis, oferecendo mensagens de otimismo, trabalho em equipe e crescimento pessoal.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "As ressalvas",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Por outro lado, o excesso de otimismo pode parecer forçado para alguns. A terceira temporada perdeu um pouco do brilho, e algumas subtramas pareceram desnecessárias.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Veredito: Ted Lasso vale a pena, mas talvez não seja a obra-prima revolucionária que alguns proclamam. É uma série sólida, bem-feita e emotiva — e às vezes, isso é mais que suficiente.",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "slug": "/sci-fi/2025-12-23/foundation-temporada-3-apple",
+      "title": "Foundation: Apple TV+ renova para 3ª temporada",
+      "type": "Notícia",
+      "subtitle": "A épica adaptação da obra de Isaac Asimov ganha mais uma temporada após números impressionantes de audiência.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/foundation-s3.jpg",
+          "alt_text": "Foundation temporada 3",
+          "caption": "Foundation confirmada para terceira temporada"
+        }
+      },
+      "author": {
+        "name": "Felipe Rodrigues",
+        "profile_url": "https://dramanews.com.br/autor/felipe-rodrigues",
+        "bio": "Especialista em ficção científica e literatura adaptada."
+      },
+      "dates": {
+        "published_at": "2025-12-23T09:00:00Z",
+        "modified_at": "2025-12-23T10:15:00Z"
+      },
+      "seo": {
+        "title_tag": "Foundation renovada para 3ª temporada na Apple TV+ | Drama News",
+        "meta_description": "Apple TV+ confirma terceira temporada de Foundation",
+        "canonical_url": "https://dramanews.com.br/noticias/foundation-temporada-3",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "notícia",
+          "foundation",
+          "apple tv",
+          "sci-fi"
+        ]
+      },
+      "social_graph": {
+        "og_title": "Foundation: Apple TV+ renova para 3ª temporada",
+        "og_description": "A saga galáctica continua com nova temporada confirmada.",
+        "og_image": "https://cdn.dramanews.com.br/img/foundation-s3-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "NewsArticle",
+        "item_reviewed": "Foundation - Season 3"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A Apple TV+ acaba de confirmar a renovação de ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Foundation",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " para uma terceira temporada. A série, baseada na trilogia clássica de Isaac Asimov, continua impressionando pelo seu escopo ambicioso e visual deslumbrante.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Uma adaptação desafiadora",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Adaptar a obra de Asimov era considerado impossível durante décadas. A narrativa que abrange séculos de história galáctica exigiu uma abordagem criativa que expandisse os personagens e criasse conexões emocionais.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Elenco estelar retorna",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Jared Harris, Lee Pace e Lou Llobell retornam aos seus papéis, enquanto novos personagens serão introduzidos. A produção promete ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "aprofundar ainda mais",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " nos mistérios da psicohistória e do Plano Seldon.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A estreia está prevista para o final de 2026.",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "slug": "/drama/2025-12-21/breaking-bad-spin-off-rumores",
+      "title": "Novo spin-off de Breaking Bad pode estar a caminho",
+      "type": "Rumor",
+      "subtitle": "Fontes próximas à produção indicam que Vince Gilligan está desenvolvendo mais uma história no universo de Breaking Bad.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/breaking-bad-spinoff.jpg",
+          "alt_text": "Breaking Bad universo expandido",
+          "caption": "Mais uma história no universo de Breaking Bad?"
+        }
+      },
+      "author": {
+        "name": "Juliana Martins",
+        "profile_url": "https://dramanews.com.br/autor/juliana-martins",
+        "bio": "Jornalista investigativa especializada em bastidores de Hollywood."
+      },
+      "dates": {
+        "published_at": "2025-12-21T18:30:00Z",
+        "modified_at": "2025-12-22T08:00:00Z"
+      },
+      "seo": {
+        "title_tag": "Novo spin-off de Breaking Bad em desenvolvimento? | Drama News",
+        "meta_description": "Rumores indicam novo projeto no universo de Breaking Bad",
+        "canonical_url": "https://dramanews.com.br/rumores/breaking-bad-spinoff",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "rumor",
+          "breaking bad",
+          "spin-off",
+          "vince gilligan"
+        ]
+      },
+      "social_graph": {
+        "og_title": "Novo spin-off de Breaking Bad pode estar a caminho",
+        "og_description": "O universo de Breaking Bad pode ganhar mais uma série.",
+        "og_image": "https://cdn.dramanews.com.br/img/bb-spinoff-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "NewsArticle",
+        "item_reviewed": "Breaking Bad Universe"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Após o sucesso de ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Better Call Saul",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ", parece que Vince Gilligan não terminou de explorar o universo de Breaking Bad. Segundo fontes próximas à produção, um novo projeto estaria em fase inicial de desenvolvimento.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "O que sabemos até agora",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "As informações são escassas, mas indicam que a nova série ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "não focaria",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " em Walter White ou Jesse Pinkman. Em vez disso, exploraria personagens secundários ou completamente novos dentro desse universo criminal.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Possíveis protagonistas",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Especulações apontam para personagens como Skinny Pete e Badger, ou até mesmo uma história centrada em Huell. Fãs também gostariam de ver mais sobre os anos dourados de Gus Fring no Chile.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Por enquanto, nem AMC nem Vince Gilligan confirmaram oficialmente o projeto.",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "slug": "/fantasia/2025-12-19/house-of-dragon-decepcionante",
+      "title": "House of the Dragon: a 2ª temporada perdeu o ritmo",
+      "type": "Opinião",
+      "subtitle": "Após uma primeira temporada promissora, a sequência de Game of Thrones tropeça em ritmo lento e escolhas narrativas questionáveis.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/hotd-s2-review.jpg",
+          "alt_text": "House of the Dragon temporada 2",
+          "caption": "House of the Dragon perde força na segunda temporada"
+        }
+      },
+      "author": {
+        "name": "Roberto Lima",
+        "profile_url": "https://dramanews.com.br/autor/roberto-lima",
+        "bio": "Crítico especializado em fantasia épica há 12 anos."
+      },
+      "dates": {
+        "published_at": "2025-12-19T14:00:00Z",
+        "modified_at": "2025-12-20T09:30:00Z"
+      },
+      "seo": {
+        "title_tag": "House of the Dragon: análise crítica da 2ª temporada | Drama News",
+        "meta_description": "Por que a segunda temporada de House of the Dragon decepcionou",
+        "canonical_url": "https://dramanews.com.br/opiniao/house-dragon-temporada-2",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "opinião",
+          "house of the dragon",
+          "game of thrones",
+          "hbo"
+        ]
+      },
+      "social_graph": {
+        "og_title": "House of the Dragon: a 2ª temporada perdeu o ritmo",
+        "og_description": "Nossa análise sobre os problemas da nova temporada.",
+        "og_image": "https://cdn.dramanews.com.br/img/hotd-s2-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "OpinionArticle",
+        "item_reviewed": "House of the Dragon - Season 2"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A primeira temporada de ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "House of the Dragon",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " nos deu esperança de que a HBO havia aprendido com os erros de Game of Thrones. Infelizmente, a segunda temporada dá vários passos para trás.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Ritmo arrastado",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "O principal problema é o ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "ritmo extremamente lento",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ". Episódios inteiros passam sem que nada significativo aconteça. A Dança dos Dragões, que deveria ser épica, se arrasta em conversas intermináveis nos corredores do castelo.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Batalhas prometidas, não entregues",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A temporada promete conflitos épicos entre dragões, mas entrega muito pouco. Quando finalmente temos ação, ela é ofuscada por cortes de orçamento evidentes e CGI questionável em alguns momentos.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "House of the Dragon precisa recuperar sua energia na próxima temporada, ou corre o risco de perder a audiência conquistada.",
+              "marks": [
+                {
+                  "type": "bold"
+                },
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "109",
+      "slug": "/comedia/2025-12-17/the-bear-temporada-3-genial",
+      "title": "The Bear: a 3ª temporada é puro cinema na TV",
+      "type": "Artigo",
+      "subtitle": "A série do FX/Hulu atinge novos patamares de excelência com uma temporada que redefine o formato de comédia dramática.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/the-bear-s3.jpg",
+          "alt_text": "The Bear temporada 3",
+          "caption": "The Bear alcança a perfeição na terceira temporada"
+        }
+      },
+      "author": {
+        "name": "Camila Torres",
+        "profile_url": "https://dramanews.com.br/autor/camila-torres",
+        "bio": "Crítica de cinema e séries premiadas."
+      },
+      "dates": {
+        "published_at": "2025-12-17T16:20:00Z",
+        "modified_at": "2025-12-18T11:45:00Z"
+      },
+      "seo": {
+        "title_tag": "The Bear temporada 3: análise completa | Drama News",
+        "meta_description": "Por que The Bear é a melhor série de 2025",
+        "canonical_url": "https://dramanews.com.br/artigos/the-bear-temporada-3",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "artigo",
+          "the bear",
+          "fx",
+          "análise"
+        ]
+      },
+      "social_graph": {
+        "og_title": "The Bear: a 3ª temporada é puro cinema na TV",
+        "og_description": "Análise completa da temporada mais impressionante do ano.",
+        "og_image": "https://cdn.dramanews.com.br/img/the-bear-s3-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "Article",
+        "item_reviewed": "The Bear - Season 3"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "The Bear transcendeu. O que começou como uma série sobre um chef tentando salvar o restaurante da família se transformou em ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "uma das obras mais refinadas da televisão contemporânea",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ".",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Direção e fotografia impecáveis",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Cada episódio é dirigido com uma precisão cirúrgica. As longas tomadas dentro da cozinha são coreografadas como uma dança frenética, enquanto os momentos de quietude são filmados com uma delicadeza quase poética.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Personagens profundamente humanos",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Jeremy Allen White continua brilhante como Carmy, mas é o elenco de apoio que rouba a cena. ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Ayo Edebiri",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " como Sydney e ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Ebon Moss-Bachrach",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " como Richie entregam performances de tirar o fôlego.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "The Bear não é apenas uma série sobre comida. É sobre ambição, trauma, família e a busca incessante pela perfeição.",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "slug": "/terror/2025-12-16/from-serie-mgm-misterio",
+      "title": "From: a série de terror que ninguém está falando",
+      "type": "Artigo",
+      "subtitle": "A produção da MGM+ é uma joia escondida que combina terror psicológico com mistério ao estilo Lost.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/from-series.jpg",
+          "alt_text": "From série MGM+",
+          "caption": "From: o terror mais subestimado do streaming"
+        }
+      },
+      "author": {
+        "name": "Diego Carvalho",
+        "profile_url": "https://dramanews.com.br/autor/diego-carvalho",
+        "bio": "Entusiasta de terror e suspense psicológico."
+      },
+      "dates": {
+        "published_at": "2025-12-16T13:10:00Z",
+        "modified_at": "2025-12-17T10:00:00Z"
+      },
+      "seo": {
+        "title_tag": "From: descubra a série de terror da MGM+ | Drama News",
+        "meta_description": "From é a série de terror que você precisa assistir",
+        "canonical_url": "https://dramanews.com.br/artigos/from-serie-terror",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "artigo",
+          "from",
+          "terror",
+          "mgm+"
+        ]
+      },
+      "social_graph": {
+        "og_title": "From: a série de terror que ninguém está falando",
+        "og_description": "Descubra a joia escondida do terror no streaming.",
+        "og_image": "https://cdn.dramanews.com.br/img/from-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "Article",
+        "item_reviewed": "From"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Enquanto todos falam de Stranger Things e The Last of Us, uma série de terror está voando sob o radar: ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "From",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ". Produzida pela MGM+, a série mistura elementos de ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Lost",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " com terror genuíno.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A premissa assustadora",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Uma cidade aparentemente normal tem um problema: é impossível sair dela. Viajantes que entram por acidente ficam presos, e quando a noite cai, ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "criaturas aterrorizantes",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " emergem das sombras para caçar qualquer um que esteja do lado de fora.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Mistério em camadas",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A série não entrega respostas fáceis. Cada episódio adiciona novas perguntas, símbolos misteriosos e revelações perturbadoras. Harold Perrineau lidera um elenco excepcional que traz humanidade real aos personagens desesperados.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Se você sente falta de séries que combinam terror com mistério complexo, From é obrigatória.",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "slug": "/drama/2025-12-14/severance-temporada-2-atraso",
+      "title": "Severance: por que a 2ª temporada demorou tanto?",
+      "type": "Notícia",
+      "subtitle": "Após quase três anos de espera, a Apple TV+ finalmente confirma data de estreia da aguardada segunda temporada.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/severance-s2.jpg",
+          "alt_text": "Severance temporada 2",
+          "caption": "Severance finalmente retorna em 2026"
+        }
+      },
+      "author": {
+        "name": "Patricia Oliveira",
+        "profile_url": "https://dramanews.com.br/autor/patricia-oliveira",
+        "bio": "Repórter de entretenimento e cultura pop."
+      },
+      "dates": {
+        "published_at": "2025-12-14T11:30:00Z",
+        "modified_at": "2025-12-15T08:20:00Z"
+      },
+      "seo": {
+        "title_tag": "Severance temporada 2: data confirmada pela Apple | Drama News",
+        "meta_description": "Entenda o atraso da segunda temporada de Severance",
+        "canonical_url": "https://dramanews.com.br/noticias/severance-temporada-2-atraso",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "notícia",
+          "severance",
+          "apple tv",
+          "temporada 2"
+        ]
+      },
+      "social_graph": {
+        "og_title": "Severance: por que a 2ª temporada demorou tanto?",
+        "og_description": "A espera finalmente acabou - data de estreia confirmada.",
+        "og_image": "https://cdn.dramanews.com.br/img/severance-s2-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "NewsArticle",
+        "item_reviewed": "Severance - Season 2"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Os fãs de ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Severance",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " esperaram quase três anos pela continuação. A Apple TV+ finalmente confirmou que a segunda temporada estreia em ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "janeiro de 2026",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ", mas o que causou esse atraso imenso?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Greves e produção complexa",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "As greves de roteiristas e atores de 2023 paralisaram Hollywood, incluindo Severance. Somado a isso, a série tem um processo de produção extremamente detalhado - os cenários minimalistas e a direção precisa exigem tempo.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "O que esperar",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A temporada retomará exatamente de onde parou, com os ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "innies",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " lidando com as consequências do episódio final explosivo. Ben Stiller retorna como diretor, e o elenco completo está de volta.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A espera foi longa, mas promete valer a pena.",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "slug": "/acao/2025-12-13/reacher-temporada-3-adaptacao-fiel",
+      "title": "Reacher: a 3ª temporada é a mais fiel aos livros",
+      "type": "Artigo",
+      "subtitle": "A série da Amazon Prime Video continua acertando na adaptação dos romances de Lee Child com sua melhor temporada até agora.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/reacher-s3.jpg",
+          "alt_text": "Reacher temporada 3",
+          "caption": "Reacher entrega sua melhor temporada"
+        }
+      },
+      "author": {
+        "name": "Marcos Silva",
+        "profile_url": "https://dramanews.com.br/autor/marcos-silva",
+        "bio": "Crítico especializado em thrillers de ação."
+      },
+      "dates": {
+        "published_at": "2025-12-13T15:40:00Z",
+        "modified_at": "2025-12-14T09:10:00Z"
+      },
+      "seo": {
+        "title_tag": "Reacher temporada 3: análise completa | Drama News",
+        "meta_description": "Por que Reacher continua sendo a melhor série de ação",
+        "canonical_url": "https://dramanews.com.br/artigos/reacher-temporada-3",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "artigo",
+          "reacher",
+          "amazon",
+          "ação"
+        ]
+      },
+      "social_graph": {
+        "og_title": "Reacher: a 3ª temporada é a mais fiel aos livros",
+        "og_description": "Análise da melhor temporada de Reacher até agora.",
+        "og_image": "https://cdn.dramanews.com.br/img/reacher-s3-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "Article",
+        "item_reviewed": "Reacher - Season 3"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Reacher continua sendo ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "a série de ação mais satisfatória",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " do streaming. A terceira temporada adapta ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Persuader",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ", um dos livros mais amados de Lee Child, com maestria.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Alan Ritchson nasceu para o papel",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Diferente do filme com Tom Cruise, Alan Ritchson tem o físico intimidador e a presença necessária para encarnar Jack Reacher. Sua performance continua melhorando, trazendo mais nuances ao personagem aparentemente simples.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Ação sem firulas",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A série não precisa de efeitos especiais mirabolantes. As cenas de luta são ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "brutais, realistas e coreografadas",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " de forma impecável. Cada soco parece doer de verdade.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Se você gosta de ação sem enrolação e mistério policial bem construído, Reacher é perfeita.",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "113",
+      "slug": "/comedia/2025-12-11/what-we-do-shadows-final-perfeito",
+      "title": "What We Do in the Shadows: um final à altura",
+      "type": "Opinião",
+      "subtitle": "A comédia sobre vampiros modernos encerra sua jornada de forma hilária e surpreendentemente emotiva.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/wwdits-final.jpg",
+          "alt_text": "What We Do in the Shadows final",
+          "caption": "What We Do in the Shadows se despede com chave de ouro"
+        }
+      },
+      "author": {
+        "name": "Laura Mendes",
+        "profile_url": "https://dramanews.com.br/autor/laura-mendes",
+        "bio": "Especialista em comédias e mockumentaries."
+      },
+      "dates": {
+        "published_at": "2025-12-11T17:00:00Z",
+        "modified_at": "2025-12-12T10:30:00Z"
+      },
+      "seo": {
+        "title_tag": "What We Do in the Shadows: análise do final | Drama News",
+        "meta_description": "O final perfeito de What We Do in the Shadows",
+        "canonical_url": "https://dramanews.com.br/opiniao/what-we-do-shadows-final",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "opinião",
+          "what we do in the shadows",
+          "final",
+          "fx"
+        ]
+      },
+      "social_graph": {
+        "og_title": "What We Do in the Shadows: um final à altura",
+        "og_description": "A comédia sobre vampiros encerra com perfeição.",
+        "og_image": "https://cdn.dramanews.com.br/img/wwdits-final-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "OpinionArticle",
+        "item_reviewed": "What We Do in the Shadows - Series Finale"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Após seis temporadas hilárias, ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "What We Do in the Shadows",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " se despediu da forma mais adequada possível: com muito humor, caos e um toque inesperado de ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "emoção genuína",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ".",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Humor consistente até o fim",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A série nunca perdeu sua essência. O formato mockumentary continuou fresco, e os vampiros continuaram sendo idiotas adoráveis. Matt Berry como Laszlo roubou a cena até o último momento.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Um final satisfatório",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Sem entregar spoilers, o episódio final respeitou os personagens e suas jornadas. A resolução foi ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "perfeitamente imperfeita",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " - exatamente como deveria ser para um grupo de vampiros disfuncionais.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "What We Do in the Shadows provou que é possível manter a qualidade do início ao fim. Uma das melhores comédias da década.",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "slug": "/drama/2025-12-09/true-detective-night-country-controverso",
+      "title": "True Detective: Night Country dividiu os fãs",
+      "type": "Opinião",
+      "subtitle": "A quarta temporada trouxe uma nova perspectiva para a antologia, mas nem todos estão convencidos.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/true-detective-nc.jpg",
+          "alt_text": "True Detective Night Country",
+          "caption": "True Detective: Night Country - amor ou ódio"
+        }
+      },
+      "author": {
+        "name": "André Costa",
+        "profile_url": "https://dramanews.com.br/autor/andre-costa",
+        "bio": "Crítico de dramas policiais e thrillers."
+      },
+      "dates": {
+        "published_at": "2025-12-09T12:20:00Z",
+        "modified_at": "2025-12-10T08:45:00Z"
+      },
+      "seo": {
+        "title_tag": "True Detective Night Country: análise controversa | Drama News",
+        "meta_description": "Por que True Detective Night Country dividiu opiniões",
+        "canonical_url": "https://dramanews.com.br/opiniao/true-detective-night-country",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "opinião",
+          "true detective",
+          "night country",
+          "hbo"
+        ]
+      },
+      "social_graph": {
+        "og_title": "True Detective: Night Country dividiu os fãs",
+        "og_description": "Nossa visão sobre a polêmica quarta temporada.",
+        "og_image": "https://cdn.dramanews.com.br/img/td-nc-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "OpinionArticle",
+        "item_reviewed": "True Detective: Night Country"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "True Detective: Night Country",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " chegou com a promessa de revitalizar a franquia após temporadas mistas. Com ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Jodie Foster",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " e ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Kali Reis",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " no elenco, a temporada entregou algo diferente - mas será que isso foi bom?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Uma nova abordagem",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Issa López dirigiu todos os episódios, trazendo elementos de terror sobrenatural que afastaram alguns puristas da série. O cenário gelado do Alasca criou uma atmosfera única, mas o ritmo foi irregular.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "O problema das expectativas",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Muitos compararam com a primeira temporada - e isso foi injusto. Night Country tentou ser sua própria coisa, com temas feministas e exploração de trauma. Funcionou? Parcialmente.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Veredito: uma temporada corajosa que não agradou a todos, mas merece ser avaliada por seus próprios méritos.",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "slug": "/acao/2025-12-08/shogun-renovada-temporada-2-3",
+      "title": "Shōgun: FX renova para mais duas temporadas",
+      "type": "Notícia",
+      "subtitle": "Após varrer o Emmy, a adaptação épica do romance de James Clavell ganha continuação inesperada.",
+      "locale": "pt-BR",
+      "midia": {
+        "cover_image": {
+          "url": "https://cdn.dramanews.com.br/img/shogun-renewal.jpg",
+          "alt_text": "Shōgun renovada",
+          "caption": "Shōgun volta com mais duas temporadas"
+        }
+      },
+      "author": {
+        "name": "Fernanda Souza",
+        "profile_url": "https://dramanews.com.br/autor/fernanda-souza",
+        "bio": "Jornalista especializada em dramas históricos."
+      },
+      "dates": {
+        "published_at": "2025-12-08T10:00:00Z",
+        "modified_at": "2025-12-08T14:20:00Z"
+      },
+      "seo": {
+        "title_tag": "Shōgun renovada para temporadas 2 e 3 no FX | Drama News",
+        "meta_description": "Shōgun ganha mais duas temporadas após sucesso no Emmy",
+        "canonical_url": "https://dramanews.com.br/noticias/shogun-renovacao",
+        "robots_directive": "index, follow",
+        "keywords": [
+          "notícia",
+          "shogun",
+          "fx",
+          "renovação"
+        ]
+      },
+      "social_graph": {
+        "og_title": "Shōgun: FX renova para mais duas temporadas",
+        "og_description": "A série mais premiada do Emmy volta com força total.",
+        "og_image": "https://cdn.dramanews.com.br/img/shogun-renewal-social.jpg",
+        "twitter_card": "summary_large_image"
+      },
+      "structured_data": {
+        "schema_type": "NewsArticle",
+        "item_reviewed": "Shōgun"
+      },
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Em uma surpresa para os fãs, o FX anunciou que ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "Shōgun",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " foi renovada para mais ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "duas temporadas adicionais",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ". A série, que era para ser uma minissérie, se tornou grande demais para parar.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Sucesso inesperado",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Shōgun dominou o Emmy 2025, levando para casa ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "18 prêmios",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ", incluindo Melhor Série Limitada. O público e a crítica foram unânimes: era uma obra-prima visual e narrativa que merecia continuar.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-2",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "O desafio da continuação",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "As novas temporadas não adaptarão material existente - serão histórias originais no mesmo universo. Hiroyuki Sanada retorna como produtor executivo e protagonista, garantindo ",
+              "marks": []
+            },
+            {
+              "nodeType": "text",
+              "value": "autenticidade cultural",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " que marcou a primeira temporada.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "As filmagens começam no Japão em 2026.",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
