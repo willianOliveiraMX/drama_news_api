@@ -4,11 +4,9 @@ import cors from "cors";
 import * as bodyParser from 'body-parser';
 
 import routes from './routes';
-import config from './config/config';
-// import errorHandler from './middlewares/errorHandler';
+import limiter from './middlewares/rateLimite';
 
 const app:Express = express();
-const port:number = config.port;
 
 const pino = PinoHttp();
 
@@ -17,8 +15,6 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(routes);
-// app.use(errorHandler);
+app.use(limiter);
 
-app.listen(port, () => {
-  pino.logger.info(`App successfully running at ${port}`);
-});
+export default app;
