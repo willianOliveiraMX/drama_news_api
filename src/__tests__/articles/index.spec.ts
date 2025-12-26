@@ -1,6 +1,22 @@
 import request from 'supertest';
 import app from '../../app';
 
+// Mock do Redis
+jest.mock('redis', () => ({
+  createClient: jest.fn(() => ({
+    connect: jest.fn().mockResolvedValue(undefined),
+    disconnect: jest.fn().mockResolvedValue(undefined),
+    quit: jest.fn().mockResolvedValue(undefined),
+    get: jest.fn().mockResolvedValue(null),
+    set: jest.fn().mockResolvedValue('OK'),
+    setEx: jest.fn().mockResolvedValue('OK'),
+    del: jest.fn().mockResolvedValue(1),
+    keys: jest.fn().mockResolvedValue([]),
+    ttl: jest.fn().mockResolvedValue(-1),
+    on: jest.fn(),
+  })),
+}));
+
 describe('GET /api/v1/articles', () => {
   afterAll(async () => {
     app.removeAllListeners();

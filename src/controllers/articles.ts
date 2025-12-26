@@ -3,6 +3,7 @@ import { status } from "http-status";
 import cors from 'cors';
 import { getAllArticles, getArticleBySlug } from '../models/article.model';
 import { validateArticleParams, validateSlugParam } from '../middlewares/validateQueryParams';
+import { cacheMiddleware } from '../middlewares/cache';
 import config from '../config/config';
 
 const router = Router();
@@ -11,9 +12,14 @@ const corsOptions = {
   origin: config.corsOrigin,
 };
 
-router.get('/v1/articles', cors(corsOptions), validateArticleParams, async (req: Request, res: Response) => {
+router.get(
+  '/v1/articles', 
+  cors(corsOptions), 
+  validateArticleParams,
+  cacheMiddleware({ ttl: 1800, keyPrefix: 'articles' }),
+  async (req: Request, res: Response) => {
   try {
-    const articles = getAllArticles({ limit: Number(req.query.limit), offset: Number(req.query.offset)});
+    const articles = await getAllArticles({ limit: Number(req.query.limit), offset: Number(req.query.offset)});
 
     if (!articles.length) {
       req.log.warn({ limit: req.query.limit, offset: req.query.offset }, 'No articles found');
@@ -45,9 +51,14 @@ router.get('/v1/articles', cors(corsOptions), validateArticleParams, async (req:
   }
 });
 
-router.get('/v1/articles/slug', cors(corsOptions), validateSlugParam, async (req: Request, res: Response) => {
+router.get(
+  '/v1/articles/slug', 
+  cors(corsOptions), 
+  validateSlugParam,
+  cacheMiddleware({ ttl: 3600, keyPrefix: 'article-slug' }), // Cache de 1 hora
+  async (req: Request, res: Response) => {
   try {
-    const article = getArticleBySlug({ slug: String(req.query.slug) });
+    const article = await getArticleBySlug({ slug: String(req.query.slug) });
 
     if (!article) {
       req.log.warn({ slug: req.query.slug }, 'Article not found');

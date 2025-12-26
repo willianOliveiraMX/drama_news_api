@@ -1,6 +1,6 @@
 import { Router } from "express";
 
-import articleController from './controllers/articles';
+import articleController from "./controllers/articles";
 
 const api:Router = Router()
   .use(articleController)
