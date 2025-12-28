@@ -1,46 +1,8 @@
 import { Request, Response, NextFunction } from 'express';
-import { createClient, RedisClientType } from 'redis';
-import config from '../config/config';
 import { IArticle } from '../interfaces/article.interface';
+import redisInstance from '../database/redis';
 
-let redisClient: RedisClientType | null = null;
-let isRedisConnected = false;
-
-const initializeRedis = async () => {
-  if (!config.redisUrl) {
-    console.warn('Redis URL not configured. Cache middleware will be disabled.');
-    return;
-  }
-
-  try {
-    redisClient = createClient({
-      url: config.redisUrl
-    });
-
-    redisClient.on('error', (err) => {
-      console.error('Redis Client Error:', err);
-      isRedisConnected = false;
-    });
-
-    redisClient.on('connect', () => {
-      console.log('Redis client connected');
-      isRedisConnected = true;
-    });
-
-    redisClient.on('disconnect', () => {
-      console.warn('Redis client disconnected');
-      isRedisConnected = false;
-    });
-
-    await redisClient.connect();
-  } catch (err) {
-    console.error('Failed to initialize Redis:', err);
-    redisClient = null;
-    isRedisConnected = false;
-  }
-};
-
-initializeRedis();
+redisInstance.connect();
 
 interface CacheOptions {
   ttl?: number;
@@ -51,7 +13,9 @@ export const cacheMiddleware = (options: CacheOptions = {}) => {
   const { ttl = 3600, keyPrefix = 'cache' } = options;
 
   return async (req: Request, res: Response, next: NextFunction) => {
-    if (!redisClient || !isRedisConnected) {
+    const redisClient = redisInstance.getClient();
+    
+    if (!redisClient || !redisInstance.isConnected()) {
       return next();
     }
 
@@ -71,7 +35,7 @@ export const cacheMiddleware = (options: CacheOptions = {}) => {
       const originalJson = res.json.bind(res);
       res.json = (body: IArticle) => {
         if (res.statusCode >= 200 && res.statusCode < 300) {
-          redisClient!.setEx(cacheKey, ttl, JSON.stringify(body))
+          redisClient.setEx(cacheKey, ttl, JSON.stringify(body))
             .then(() => {
               req.log.info({ cacheKey, ttl, expiresIn: `${ttl}s` }, 'Dados salvos no cache');
             })
@@ -91,7 +55,9 @@ export const cacheMiddleware = (options: CacheOptions = {}) => {
 };
 
 export const invalidateCache = async (pattern: string): Promise<number> => {
-  if (!redisClient || !isRedisConnected) {
+  const redisClient = redisInstance.getClient();
+
+  if (!redisClient || !redisInstance.isConnected()) {
     return 0;
   }
 
@@ -109,7 +75,9 @@ export const invalidateCache = async (pattern: string): Promise<number> => {
 };
 
 export const getCacheTTL = async (key: string): Promise<number> => {
-  if (!redisClient || !isRedisConnected) {
+  const redisClient = redisInstance.getClient();
+
+  if (!redisClient || !redisInstance.isConnected()) {
     return -1;
   }
 
@@ -122,9 +90,6 @@ export const getCacheTTL = async (key: string): Promise<number> => {
 };
 
 export const disconnectRedis = async (): Promise<void> => {
-  if (redisClient && isRedisConnected) {
-    await redisClient.quit();
-  }
+  await redisInstance.disconnect();
 };
 
-export { redisClient };

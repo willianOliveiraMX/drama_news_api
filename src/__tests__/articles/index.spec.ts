@@ -1,7 +1,6 @@
 import request from 'supertest';
 import app from '../../app';
 
-// Mock do Redis
 jest.mock('redis', () => ({
   createClient: jest.fn(() => ({
     connect: jest.fn().mockResolvedValue(undefined),
