@@ -16,6 +16,13 @@ jest.mock('redis', () => ({
   })),
 }));
 
+jest.mock('../../middlewares/auth', () => {
+  return jest.fn((req, res, next) => {
+    req.user = { sitename: 'test', role: 'admin' };
+    next();
+  });
+});
+
 describe('GET /api/v1/articles', () => {
   afterAll(async () => {
     app.removeAllListeners();

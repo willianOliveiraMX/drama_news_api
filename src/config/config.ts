@@ -7,6 +7,7 @@ interface Config {
   nodeEnv: string;
   corsOrigin: string;
   redisUrl?: string;
+  jwtSecret: string;
 }
 
 const config: Config = {
@@ -14,6 +15,7 @@ const config: Config = {
   nodeEnv: process.env.NODE_ENV || 'development',
   corsOrigin: process.env.CORS_ORIGIN || '*',
   redisUrl: process.env.REDIS_URL || 'redis://localhost:6379',
+  jwtSecret: process.env.JWT_SECRET || 'dramanews_api_secret_key',
 };
 
 export default config;

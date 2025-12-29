@@ -5,6 +5,7 @@ import { getAllArticles, getArticleBySlug } from '../models/article.model';
 import { validateArticleParams, validateSlugParam } from '../middlewares/validateQueryParams';
 import { cacheMiddleware } from '../middlewares/cache';
 import config from '../config/config';
+import authMiddleware from '../middlewares/auth';
 
 const router = Router();
 
@@ -16,6 +17,7 @@ router.get(
   '/v1/articles', 
   cors(corsOptions), 
   validateArticleParams,
+  authMiddleware,
   cacheMiddleware({ ttl: 1800, keyPrefix: 'articles' }),
   async (req: Request, res: Response) => {
   try {
@@ -55,7 +57,8 @@ router.get(
   '/v1/articles/slug', 
   cors(corsOptions), 
   validateSlugParam,
-  cacheMiddleware({ ttl: 3600, keyPrefix: 'article-slug' }), // Cache de 1 hora
+  authMiddleware,
+  cacheMiddleware({ ttl: 3600, keyPrefix: 'article-slug' }),
   async (req: Request, res: Response) => {
   try {
     const article = await getArticleBySlug({ slug: String(req.query.slug) });
