@@ -26,21 +26,21 @@ export const cacheMiddleware = (options: CacheOptions = {}) => {
       const cachedData = await redisClient.get(cacheKey);
 
       if (cachedData && typeof cachedData === 'string') {
-        req.log.info({ cacheKey, ttl }, 'Cache hit - Retornando dados em cache');
+        req.log.info({ cacheKey, ttl }, 'Cache hit - Returning cached data');
         return res.json(JSON.parse(cachedData) as IArticle);
       }
 
-      req.log.info({ cacheKey, ttl }, 'Cache miss - Buscando dados');
+      req.log.info({ cacheKey, ttl }, 'Cache miss - Fetching data');
 
       const originalJson = res.json.bind(res);
       res.json = (body: IArticle) => {
         if (res.statusCode >= 200 && res.statusCode < 300) {
           redisClient.setEx(cacheKey, ttl, JSON.stringify(body))
             .then(() => {
-              req.log.info({ cacheKey, ttl, expiresIn: `${ttl}s` }, 'Dados salvos no cache');
+              req.log.info({ cacheKey, ttl, expiresIn: `${ttl}s` }, 'Data saved to cache');
             })
             .catch(err => {
-              req.log.error({ err, cacheKey }, 'Erro ao salvar no cache');
+              req.log.error({ err, cacheKey }, 'Error saving to cache');
             });
         }
         return originalJson(body);
@@ -48,48 +48,8 @@ export const cacheMiddleware = (options: CacheOptions = {}) => {
 
       next();
     } catch (err) {
-      req.log.error({ err }, 'Erro no middleware de cache');
+      req.log.error({ err }, 'Error in cache middleware');
       next();
     }
   };
 };
-
-export const invalidateCache = async (pattern: string): Promise<number> => {
-  const redisClient = redisInstance.getClient();
-
-  if (!redisClient || !redisInstance.isConnected()) {
-    return 0;
-  }
-
-  try {
-    const keys = await redisClient.keys(pattern);
-    if (keys.length > 0) {
-      await redisClient.del(keys);
-      return keys.length;
-    }
-    return 0;
-  } catch (err) {
-    console.log(err);
-    return 0;
-  }
-};
-
-export const getCacheTTL = async (key: string): Promise<number> => {
-  const redisClient = redisInstance.getClient();
-
-  if (!redisClient || !redisInstance.isConnected()) {
-    return -1;
-  }
-
-  try {
-    return await redisClient.ttl(key);
-  } catch (err) {
-    console.log(err);
-    return -1;
-  }
-};
-
-export const disconnectRedis = async (): Promise<void> => {
-  await redisInstance.disconnect();
-};
-
