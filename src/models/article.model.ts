@@ -18,3 +18,11 @@ export const getArticleBySlug = async ({ slug }: { slug: string }): Promise<IArt
   return result;
 };
 
+export const getArticleByType = async ({ type }: { type: string }): Promise<IArticle[] > => {
+  await delay(300);
+  const data = JsonDb();
+  const result = data.filter((article: IArticle) => article.type.toLowerCase() === type.toLowerCase()) as IArticle[];
+
+  return result;
+}
+

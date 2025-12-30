@@ -1,7 +1,7 @@
 import { Request, Response, Router } from 'express';
 import { status } from "http-status";
 import cors from 'cors';
-import { getAllArticles, getArticleBySlug } from '../models/article.model';
+import { getAllArticles, getArticleBySlug, getArticleByType } from '../models/article.model';
 import { validateArticleParams, validateSlugParam } from '../middlewares/validateQueryParams';
 import { cacheMiddleware } from '../middlewares/cache';
 import config from '../config/config';
@@ -84,6 +84,46 @@ router.get(
     });
   } catch (err) {
     req.log.error({ err, slug: req.query.slug }, 'Error fetching article by slug');
+  
+    res.status(status.INTERNAL_SERVER_ERROR).json({
+      statusCode: status.INTERNAL_SERVER_ERROR,
+      body: {
+        message: "Unexpected error"
+      }
+    });
+  }
+});
+
+router.get(
+  '/v1/articles/category', 
+  cors(corsOptions), 
+  validateArticleParams,
+  authMiddleware,
+  cacheMiddleware({ ttl: 3600, keyPrefix: 'article-category' }),
+  async (req: Request, res: Response) => {
+  try {
+    const articles = await getArticleByType({ type: String(req.query.type) });
+
+    if (!articles.length) {
+      req.log.warn({ type: req.query.type }, 'No articles found');
+  
+      return res.status(status.NOT_FOUND).json({
+        statusCode: status[404],
+        body: {
+          message: "Not able to find any article"
+        }
+      });
+    }
+
+    req.log.info({ category: req.query.type }, 'Articles retrieved successfully');
+    res.json({
+      statusCode: status.OK,
+      body: {
+        data: articles
+      }
+    });
+  } catch (err) {
+    req.log.error({ err, category: req.query.type }, 'Error fetching articles by category');
   
     res.status(status.INTERNAL_SERVER_ERROR).json({
       statusCode: status.INTERNAL_SERVER_ERROR,
