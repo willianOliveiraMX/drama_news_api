@@ -9,7 +9,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/it-a-coisa-serie.jpg",
+          "url": "/news_images/it_a_coisa.jpg",
           "alt_text": "Capa da série IT a Coisa",
           "caption": "Imagem promocional da série IT a Coisa"
         }
@@ -36,7 +36,7 @@
       "social_graph": {
         "og_title": "Você chorou no ep 3 de The Last of Us? Leia nossa crítica",
         "og_description": "O episódio mais polêmico e emocionante da temporada explicado.",
-        "og_image": "https://cdn.seusite.com.br/img/tlou-ep3-social.jpg",
+        "og_image": "https://cdn.dramanews.com.br/img/tlou-ep3-social.jpg",
         "twitter_card": "summary_large_image"
       },
       "structured_data": {
@@ -184,7 +184,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/the-last-of-us-s2.jpg",
+          "url": "/news_images/tlous.jpg",
           "alt_text": "The Last of Us Season 2",
           "caption": "Segunda temporada de The Last of Us confirmada"
         }
@@ -337,7 +337,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/stranger-things-final.jpg",
+          "url": "/news_images/stranger.jpg",
           "alt_text": "Stranger Things temporada final",
           "caption": "O polêmico final de Stranger Things"
         }
@@ -462,7 +462,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/succession-legacy.jpg",
+          "url": "/news_images/succession.jpg",
           "alt_text": "Succession HBO",
           "caption": "O impacto de Succession na TV moderna"
         }
@@ -591,7 +591,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/fallout-amazon.jpg",
+          "url": "/news_images/fallout.jpg",
           "alt_text": "Fallout série Amazon",
           "caption": "Fallout chega com tudo na Amazon Prime"
         }
@@ -731,7 +731,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/ted-lasso-analysis.jpg",
+          "url": "/news_images/ted_lasso.jpg",
           "alt_text": "Ted Lasso Apple TV",
           "caption": "Ted Lasso: hype justificado?"
         }
@@ -871,7 +871,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/foundation-s3.jpg",
+          "url": "/news_images/foundation.jpg",
           "alt_text": "Foundation temporada 3",
           "caption": "Foundation confirmada para terceira temporada"
         }
@@ -1011,7 +1011,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/breaking-bad-spinoff.jpg",
+          "url": "/news_images/breaking_bad.jpg",
           "alt_text": "Breaking Bad universo expandido",
           "caption": "Mais uma história no universo de Breaking Bad?"
         }
@@ -1151,7 +1151,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/hotd-s2-review.jpg",
+          "url": "/news_images/house_of_dragon.jpg",
           "alt_text": "House of the Dragon temporada 2",
           "caption": "House of the Dragon perde força na segunda temporada"
         }
@@ -1294,7 +1294,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/the-bear-s3.jpg",
+          "url": "/news_images/the_bear.jpg",
           "alt_text": "The Bear temporada 3",
           "caption": "The Bear alcança a perfeição na terceira temporada"
         }
@@ -1448,7 +1448,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/from-series.jpg",
+          "url": "/news_images/from.jpg",
           "alt_text": "From série MGM+",
           "caption": "From: o terror mais subestimado do streaming"
         }
@@ -1602,7 +1602,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/severance-s2.jpg",
+          "url": "/news_images/serverance.jpg",
           "alt_text": "Severance temporada 2",
           "caption": "Severance finalmente retorna em 2026"
         }
@@ -1756,7 +1756,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/reacher-s3.jpg",
+          "url": "/news_images/reacher.jpg",
           "alt_text": "Reacher temporada 3",
           "caption": "Reacher entrega sua melhor temporada"
         }
@@ -1910,7 +1910,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/wwdits-final.jpg",
+          "url": "/news_images/shadows.jpg",
           "alt_text": "What We Do in the Shadows final",
           "caption": "What We Do in the Shadows se despede com chave de ouro"
         }
@@ -2064,7 +2064,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/true-detective-nc.jpg",
+          "url": "/news_images/true_detective.jpg",
           "alt_text": "True Detective Night Country",
           "caption": "True Detective: Night Country - amor ou ódio"
         }
@@ -2213,7 +2213,7 @@
       "locale": "pt-BR",
       "midia": {
         "cover_image": {
-          "url": "https://cdn.dramanews.com.br/img/shogun-renewal.jpg",
+          "url": "/news_images/shogun.jpg",
           "alt_text": "Shōgun renovada",
           "caption": "Shōgun volta com mais duas temporadas"
         }

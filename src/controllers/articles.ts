@@ -38,7 +38,8 @@ router.get(
     res.json({
       statusCode: status.OK,
       body: {
-        data: articles
+        data: articles,
+        total: 15
       }
     });
   } catch (err) {
